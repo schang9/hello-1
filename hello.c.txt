@@ -4,6 +4,8 @@ int main(void){
 
 printf("Jiahua Jia\n");
 printf("math\n");
+printf("Shen Chang");
+printf("math");
 
 return 0;
 
